@@ -1,0 +1,21 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent" android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    tools:context="com.example.abdallah.finalassignment.About">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="The Limkokwing campus in Cyberjaya is home to 30,000 students from nearly 165 countries. Its multicultural environment enables both local and foreign students to interact and soak up varied cultures.  The campus is an outstanding landmark in the vicinity. Its spectacular facade, a multi-hued skin of sorts, features creative industries, lifestyle activities and the university&apos;s global expansion.  Through six faculties — Design Innovation, Multimedia Creativity, Communication, Media &amp; Broadcasting, Information &amp; Communication Technology, Business Management &amp; Globalisation and Architecture &amp; Built Environment — the university runs an extensive range of programmes. Its Executive Leadership College also offers specially tailored courses in leadership, entrepreneurship, finance and information technology. On the campus are nearly 40 clubs representing students from countries like Botswana, China, Indonesia, India, Iran and Sri Lanka. Their members take part in sports, cultural, religious and lifestyle activities on and off the campus, creating a multi-faceted ambience. The great chemistry among the clubs makes Limkokwing one closely-knit family.  The campus itself is everything a student needs. Among the facilities and amenities available to students are a coffee house, a food plaza with various styles of food, a gym, a hair salon and a convenience store. Students also make use of an art shop, a print shop, a medical clinic, an eLibrary and state-of-the-art computer labs. The winner of the Highest Enrolment of Foreign Students Award and Special Award for Globalising Malaysian Education from the Malaysian Ministry of Education and the Export Excellence Award from the Ministry of International Trade and Industry, the trail-blazing university has won honours in its own right. On the overseas front, it has bagged awards such as the Arch of Europe Award for Quality and Technology, Frankfurt; the International Quality Award, London; the Century International Quality Era Platinum Award, Geneva; the International Gold Star Award, Paris; and the Visionary Leadership in Innovative Education Award, New York.  The university has played host to local and foreign dignitaries. Among the VIP visitors were the Duke of York, Prince Andrew; the Duchess of Gloucester; the Prime Minister of St Vincent &amp; the Grenadines, Dr Ralph E. Gonsalves; Maldivian Education Minister, Dr Mahmood Shougee, and Hollywood celebrities like Mel Gibson and Bruce Davey."
+        android:id="@+id/textView"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:textSize="20sp"
+        android:textColor="#000000" />
+
+</ScrollView>
